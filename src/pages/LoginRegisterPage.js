@@ -42,7 +42,7 @@ const LoginRegisterPage = ({ mode }) => {
             {/* Right Side - Image */}
             <div className="right-section d-none d-md-block col-md-6">
                 <img
-                    src={require(`../assets/images/${isLogin ? 'Cover.png' : 'Cover (1).png'}`)}
+                    src={require(`../assets/images/${isLogin ? 'login-image.png' : 'register-image.png'}`)}
                     alt="cover"
                     className="img-fluid"
                     style={{ width: '100%', height: '100vh', objectFit: 'cover' }}

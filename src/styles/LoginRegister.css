@@ -10,3 +10,7 @@
     border-color: '#9831E9';
     box-shadow: 0 0 0 0.2rem rgba(152, 49, 233, 0.25);
 }
+
+.btn {
+    box-shadow: 0 0 16px rgba(124, 58, 237, 0.4);
+}
